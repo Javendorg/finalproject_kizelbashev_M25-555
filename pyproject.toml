@@ -1,0 +1,26 @@
+[project]
+name = "finalproject-kizelbashev-m25-555"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "javendorg",email = "javendorg777@yandex.ru"}
+]
+readme = "README.md"
+packages = [
+    { include = "valutatrade_hub", from = "." }
+]
+requires-python = ">=3.12"
+dependencies = [
+]
+
+[tool.poetry]
+packages = [
+    { include = "valutatrade_hub" }
+]
+
+[tool.poetry.scripts]
+project = "main:main"
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
