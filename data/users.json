@@ -1,0 +1,44 @@
+[
+  {
+    "user_id": 1,
+    "username": "javend",
+    "hashed_password": "97085dc94733d7fd0e789cc92306313cc62c97b1da4f48e8ec807c888acdfba6",
+    "salt": "b83657aba7b24398",
+    "registration_date": "2026-01-03T15:27:03.944489"
+  },
+  {
+    "user_id": 2,
+    "username": "jav",
+    "hashed_password": "6b41805aae24c88b8114e4101aef6127ba494fe4540981d320e202325f4c9865",
+    "salt": "22b962b93418a47c",
+    "registration_date": "2026-01-03T15:27:54.910746"
+  },
+  {
+    "user_id": 3,
+    "username": "alex_k",
+    "hashed_password": "85ef98750cdbceb7ec0efc5cf96b06a96ffd15894c628c2594e4d28dbffa4d16",
+    "salt": "0d380b2973f11bd6",
+    "registration_date": "2026-01-07T16:48:07.614620"
+  },
+  {
+    "user_id": 4,
+    "username": "alex_kiz",
+    "hashed_password": "98bf871f11ac0faee9ffe30fe7c97142a0d52a2090137e793f7d73db018fb8ae",
+    "salt": "f8fae3b0c680c534",
+    "registration_date": "2026-01-07T16:54:36.377199"
+  },
+  {
+    "user_id": 5,
+    "username": "alex_ki",
+    "hashed_password": "13141a5172b3599f987d0f01c958711e15161b3ccd76307aa9745bbd2c82c9aa",
+    "salt": "1c8a91d8ee0c03d7",
+    "registration_date": "2026-01-07T16:59:02.376526"
+  },
+  {
+    "user_id": 6,
+    "username": "alex_kizel",
+    "hashed_password": "1886a6aa05af1ce83cd5fb2cd0fb1482aab9c58e5a2c34fbc4f60da23ef05a6c",
+    "salt": "eb7385321e273399",
+    "registration_date": "2026-01-07T17:08:24.282364"
+  }
+]

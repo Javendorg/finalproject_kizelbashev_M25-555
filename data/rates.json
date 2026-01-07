@@ -1,0 +1,18 @@
+{
+  "timestamp": "2026-01-07T17:09:14.927652",
+  "source": "coingecko, exchangerate",
+  "base_currency": "USD",
+  "rates": {
+    "BTC_USD": 91699,
+    "ETH_USD": 3192.84,
+    "SOL_USD": 137.5,
+    "ADA_USD": 0.407201,
+    "DOT_USD": 2.16,
+    "EUR_USD": 0.855,
+    "GBP_USD": 0.7404,
+    "RUB_USD": 80.589,
+    "JPY_USD": 156.6193,
+    "CNY_USD": 6.9953
+  },
+  "total_pairs": 10
+}

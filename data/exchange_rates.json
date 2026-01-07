@@ -1,0 +1,271 @@
+[
+  {
+    "timestamp": "2026-01-03T15:28:27.136985",
+    "source": "coingecko",
+    "base_currency": "USD",
+    "rates": {
+      "BTC_USD": 89703,
+      "ETH_USD": 3098.4,
+      "SOL_USD": 130.71,
+      "ADA_USD": 0.384906,
+      "DOT_USD": 2.12
+    },
+    "total_pairs": 5
+  },
+  {
+    "timestamp": "2026-01-03T15:31:55.350257",
+    "source": "coingecko",
+    "base_currency": "USD",
+    "rates": {
+      "BTC_USD": 89724,
+      "ETH_USD": 3098.93,
+      "SOL_USD": 130.74,
+      "ADA_USD": 0.384802,
+      "DOT_USD": 2.12
+    },
+    "total_pairs": 5
+  },
+  {
+    "timestamp": "2026-01-03T15:32:30.609096",
+    "source": "coingecko",
+    "base_currency": "USD",
+    "rates": {
+      "BTC_USD": 89724,
+      "ETH_USD": 3098.93,
+      "SOL_USD": 130.74,
+      "ADA_USD": 0.384802,
+      "DOT_USD": 2.12
+    },
+    "total_pairs": 5
+  },
+  {
+    "timestamp": "2026-01-03T15:35:23.011184",
+    "source": "coingecko, exchangerate",
+    "base_currency": "USD",
+    "rates": {
+      "BTC_USD": 89723,
+      "ETH_USD": 3098.08,
+      "SOL_USD": 130.72,
+      "ADA_USD": 0.384604,
+      "DOT_USD": 2.12,
+      "EUR_USD": 0.853,
+      "GBP_USD": 0.743,
+      "RUB_USD": 79.5835,
+      "JPY_USD": 156.8463,
+      "CNY_USD": 7.0009
+    },
+    "total_pairs": 10
+  },
+  {
+    "timestamp": "2026-01-07T16:49:37.117842",
+    "source": "coingecko",
+    "base_currency": "USD",
+    "rates": {
+      "BTC_USD": 92021,
+      "ETH_USD": 3210.44,
+      "SOL_USD": 138.12,
+      "ADA_USD": 0.410856,
+      "DOT_USD": 2.18
+    },
+    "total_pairs": 5
+  },
+  {
+    "timestamp": "2026-01-07T16:49:55.451036",
+    "source": "coingecko",
+    "base_currency": "USD",
+    "rates": {
+      "BTC_USD": 92021,
+      "ETH_USD": 3210.44,
+      "SOL_USD": 138.12,
+      "ADA_USD": 0.410856,
+      "DOT_USD": 2.18
+    },
+    "total_pairs": 5
+  },
+  {
+    "timestamp": "2026-01-07T16:51:38.688611",
+    "source": "coingecko",
+    "base_currency": "USD",
+    "rates": {
+      "BTC_USD": 92033,
+      "ETH_USD": 3209.97,
+      "SOL_USD": 138.09,
+      "ADA_USD": 0.410771,
+      "DOT_USD": 2.17
+    },
+    "total_pairs": 5
+  },
+  {
+    "timestamp": "2026-01-07T16:51:42.169545",
+    "source": "coingecko",
+    "base_currency": "USD",
+    "rates": {
+      "BTC_USD": 92033,
+      "ETH_USD": 3209.97,
+      "SOL_USD": 138.09,
+      "ADA_USD": 0.410771,
+      "DOT_USD": 2.17
+    },
+    "total_pairs": 5
+  },
+  {
+    "timestamp": "2026-01-07T16:55:04.231606",
+    "source": "coingecko",
+    "base_currency": "USD",
+    "rates": {
+      "BTC_USD": 92029,
+      "ETH_USD": 3209.72,
+      "SOL_USD": 137.99,
+      "ADA_USD": 0.410099,
+      "DOT_USD": 2.17
+    },
+    "total_pairs": 5
+  },
+  {
+    "timestamp": "2026-01-07T16:55:20.869437",
+    "source": "coingecko",
+    "base_currency": "USD",
+    "rates": {
+      "BTC_USD": 92029,
+      "ETH_USD": 3209.72,
+      "SOL_USD": 137.99,
+      "ADA_USD": 0.410099,
+      "DOT_USD": 2.17
+    },
+    "total_pairs": 5
+  },
+  {
+    "timestamp": "2026-01-07T16:59:23.963286",
+    "source": "coingecko",
+    "base_currency": "USD",
+    "rates": {
+      "BTC_USD": 92004,
+      "ETH_USD": 3209.55,
+      "SOL_USD": 137.91,
+      "ADA_USD": 0.409758,
+      "DOT_USD": 2.17
+    },
+    "total_pairs": 5
+  },
+  {
+    "timestamp": "2026-01-07T16:59:51.153944",
+    "source": "coingecko",
+    "base_currency": "USD",
+    "rates": {
+      "BTC_USD": 92004,
+      "ETH_USD": 3209.55,
+      "SOL_USD": 137.91,
+      "ADA_USD": 0.409758,
+      "DOT_USD": 2.17
+    },
+    "total_pairs": 5
+  },
+  {
+    "timestamp": "2026-01-07T17:04:36.653590",
+    "source": "coingecko, exchangerate",
+    "base_currency": "USD",
+    "rates": {
+      "BTC_USD": 91793,
+      "ETH_USD": 3197.03,
+      "SOL_USD": 137.71,
+      "ADA_USD": 0.408552,
+      "DOT_USD": 2.16,
+      "EUR_USD": 0.855,
+      "GBP_USD": 0.7404,
+      "RUB_USD": 80.589,
+      "JPY_USD": 156.6193,
+      "CNY_USD": 6.9953
+    },
+    "total_pairs": 10
+  },
+  {
+    "timestamp": "2026-01-07T17:06:32.943178",
+    "source": "coingecko, exchangerate",
+    "base_currency": "USD",
+    "rates": {
+      "BTC_USD": 91787,
+      "ETH_USD": 3195.52,
+      "SOL_USD": 137.62,
+      "ADA_USD": 0.408189,
+      "DOT_USD": 2.16,
+      "EUR_USD": 0.855,
+      "GBP_USD": 0.7404,
+      "RUB_USD": 80.589,
+      "JPY_USD": 156.6193,
+      "CNY_USD": 6.9953
+    },
+    "total_pairs": 10
+  },
+  {
+    "timestamp": "2026-01-07T17:07:43.764155",
+    "source": "coingecko, exchangerate",
+    "base_currency": "USD",
+    "rates": {
+      "BTC_USD": 91726,
+      "ETH_USD": 3193.32,
+      "SOL_USD": 137.58,
+      "ADA_USD": 0.407789,
+      "DOT_USD": 2.16,
+      "EUR_USD": 0.855,
+      "GBP_USD": 0.7404,
+      "RUB_USD": 80.589,
+      "JPY_USD": 156.6193,
+      "CNY_USD": 6.9953
+    },
+    "total_pairs": 10
+  },
+  {
+    "timestamp": "2026-01-07T17:07:52.117963",
+    "source": "coingecko, exchangerate",
+    "base_currency": "USD",
+    "rates": {
+      "BTC_USD": 91726,
+      "ETH_USD": 3193.32,
+      "SOL_USD": 137.58,
+      "ADA_USD": 0.407789,
+      "DOT_USD": 2.16,
+      "EUR_USD": 0.855,
+      "GBP_USD": 0.7404,
+      "RUB_USD": 80.589,
+      "JPY_USD": 156.6193,
+      "CNY_USD": 6.9953
+    },
+    "total_pairs": 10
+  },
+  {
+    "timestamp": "2026-01-07T17:09:05.628058",
+    "source": "coingecko, exchangerate",
+    "base_currency": "USD",
+    "rates": {
+      "BTC_USD": 91699,
+      "ETH_USD": 3192.84,
+      "SOL_USD": 137.5,
+      "ADA_USD": 0.407201,
+      "DOT_USD": 2.16,
+      "EUR_USD": 0.855,
+      "GBP_USD": 0.7404,
+      "RUB_USD": 80.589,
+      "JPY_USD": 156.6193,
+      "CNY_USD": 6.9953
+    },
+    "total_pairs": 10
+  },
+  {
+    "timestamp": "2026-01-07T17:09:14.927652",
+    "source": "coingecko, exchangerate",
+    "base_currency": "USD",
+    "rates": {
+      "BTC_USD": 91699,
+      "ETH_USD": 3192.84,
+      "SOL_USD": 137.5,
+      "ADA_USD": 0.407201,
+      "DOT_USD": 2.16,
+      "EUR_USD": 0.855,
+      "GBP_USD": 0.7404,
+      "RUB_USD": 80.589,
+      "JPY_USD": 156.6193,
+      "CNY_USD": 6.9953
+    },
+    "total_pairs": 10
+  }
+]
